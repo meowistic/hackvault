@@ -3,7 +3,7 @@ A Training Ground for ethical hackers, cryptographers and cybersecurity speciali
 
 # Sneek-Peeks 🙈
 
-![image](https://user-images.githubusercontent.com/126018790/232264966-1f09810b-10fd-488a-8e2f-ae85c9ba1fe7.png)
+![image](https://github.com/meowistic/hackvault/assets/126018790/a5d76ede-dd11-43f0-ad56-cc87eedd6800)
 
 # Coming Soon:
 
