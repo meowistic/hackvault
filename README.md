@@ -7,7 +7,7 @@ A Training Ground for ethical hackers, cryptographers and cybersecurity speciali
 
 # Coming Soon:
 
-## Levels completed: 3
+## Levels completed: 4
 
-## First expected release: 1-2 months.
+## First expected release: idk fr
 
